@@ -1,0 +1,21 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "DSA qustion solving in javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham419/DSA.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham419/DSA/issues"
+  },
+  "homepage": "https://github.com/shubham419/DSA#readme"
+}
